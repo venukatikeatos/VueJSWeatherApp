@@ -1,0 +1,2 @@
+ <p v-if="city">your current city is {{city}}</p>
+        <p v-else>please enter valid city</p>
